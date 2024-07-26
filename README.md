@@ -77,6 +77,7 @@ a list of awesome toolkit for self-use
 
 ## 未分类
 
-| 名称                                            | 简介                   | 备注 |
-| ----------------------------------------------- | ---------------------- | ---- |
-| [MemoTrace](https://github.com/LC044/WeChatMsg) | 微信聊天记录导出、分析 |      |
+| 名称                                                              | 简介                   | 备注 |
+| ----------------------------------------------------------------- | ---------------------- | ---- |
+| [MemoTrace](https://github.com/LC044/WeChatMsg)                   | 微信聊天记录导出、分析 |      |
+| [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro) | 2FA 身份验证器         |      |
