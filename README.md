@@ -35,9 +35,10 @@ a list of awesome toolkit for self-use
 
 ## 影音娱乐
 
-| 名称                                                    | 简介               | 备注 |
-| ------------------------------------------------------- | ------------------ | ---- |
-| [YesPlayMusic](https://github.com/qier222/YesPlayMusic) | 第三方网易云播放器 |      |
+| 名称                                                          | 简介                | 备注 |
+| ------------------------------------------------------------- | ------------------- | ---- |
+| [YesPlayMusic](https://github.com/qier222/YesPlayMusic)       | 第三方网易云播放器  |      |
+| [Watt Toolkit](https://github.com/BeyondDimension/SteamTools) | 多功能 Steam 工具箱 |      |
 
 ## 开发工具
 
