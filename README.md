@@ -7,6 +7,7 @@ a list of awesome toolkit for self-use
 - [Windows 高级电源辅助管理工具](./toolkit-without-url/Windows高级电源辅助管理工具.zip) by bilibili[@有限的未知](https://space.bilibili.com/1199158766)
 - [Windows 使用痕迹检测工具](./toolkit-without-url/Windows使用痕迹检测工具.zip) by bilibili[@有限的未知](https://space.bilibili.com/1199158766)
 - [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) 纯粹的 Windows 右键菜单管理程序
+- [分区助手](https://www.disktool.cn/download.html)
 
 ## 优化工具
 
