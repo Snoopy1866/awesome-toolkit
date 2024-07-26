@@ -17,6 +17,7 @@ a list of awesome toolkit for self-use
 - [LocalSend](https://github.com/localsend/localsend) 跨平台文件传输
 - [QTTabBar](http://qttabbar.wikidot.com/) 在资源管理器中使用多标签
 - [TreeSize](https://treesize.net/) 存储空间占用可视化
+- [LockHunter](https://lockhunter.com/) 解除文件占用
 
 ## 图像处理
 
