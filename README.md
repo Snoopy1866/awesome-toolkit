@@ -29,7 +29,10 @@ a list of awesome toolkit for self-use
 - [Android SDK Platform-Tools](https://developer.android.com/tools/releases/platform-tools)
 - [文件真实格式识别分析工具](./toolkit-without-url/文件真实格式识别分析工具.zip) by bilibili[@有限的未知](https://space.bilibili.com/1199158766)
 - [OpenArk](https://github.com/BlackINT3/OpenArk) Ark 工具
-- []()
+
+## 破解相关
+
+- [RunAsDate](https://www.nirsoft.net/utils/run_as_date.html) 使软件运行在指定日期和时间上
 
 ## 未分类
 
