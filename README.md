@@ -44,10 +44,11 @@ a list of awesome toolkit for self-use
 
 ## 文本编辑
 
-| 名称                                            | 简介                          | 备注 |
-| ----------------------------------------------- | ----------------------------- | ---- |
-| [notepad--](https://github.com/cxasm/notepad--) | 可替代 notepad++ 的文本编辑器 |      |
-| [Typora](https://typora.io/)                    | Markdown 写作                 |      |
+| 名称                                                     | 简介                          | 备注                                   |
+| -------------------------------------------------------- | ----------------------------- | -------------------------------------- |
+| [notepad--](https://github.com/cxasm/notepad--)          | 可替代 notepad++ 的文本编辑器 |                                        |
+| [Typora](https://typora.io/)                             | Markdown 写作                 |                                        |
+| [Markdown Nice](https://github.com/mdnice/markdown-nice) | 使用 Markdown 进行排版        | [在线使用](https://editor.mdnice.com/) |
 
 ## 开发工具
 
