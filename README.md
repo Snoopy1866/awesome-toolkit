@@ -17,6 +17,7 @@ a list of awesome toolkit for self-use
 ## 文件管理
 
 - [LocalSend](https://github.com/localsend/localsend) 跨平台文件传输
+- [QTTabBar](http://qttabbar.wikidot.com/) 在资源管理器中使用多标签
 
 ## 图像处理
 
