@@ -37,6 +37,8 @@ a list of awesome toolkit for self-use
 
 | 名称                                                          | 简介                | 备注 |
 | ------------------------------------------------------------- | ------------------- | ---- |
+| [VLC](https://www.videolan.org/)                              | 多媒体播放器        |      |
+| [PotPlayer](https://potplayer.tv/)                            | 多媒体播放器        |      |
 | [YesPlayMusic](https://github.com/qier222/YesPlayMusic)       | 第三方网易云播放器  |      |
 | [Watt Toolkit](https://github.com/BeyondDimension/SteamTools) | 多功能 Steam 工具箱 |      |
 
