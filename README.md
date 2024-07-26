@@ -11,7 +11,6 @@ a list of awesome toolkit for self-use
 
 ## 优化工具
 
-- [PDF 密码批量清除与加密工具](./toolkit-without-url/PDF密码批量清除与加密工具.zip) by bilibili[@有限的未知](https://space.bilibili.com/1199158766)
 - [X-Mouse Button Control](https://www.highrez.co.uk/downloads/XMouseButtonControl.htm) 鼠标按键重映射
 
 ## 文件管理
@@ -33,6 +32,7 @@ a list of awesome toolkit for self-use
 ## 破解相关
 
 - [RunAsDate](https://www.nirsoft.net/utils/run_as_date.html) 使软件运行在指定日期和时间上
+- [PDF 密码批量清除与加密工具](./toolkit-without-url/PDF密码批量清除与加密工具.zip) by bilibili[@有限的未知](https://space.bilibili.com/1199158766)
 
 ## 未分类
 
