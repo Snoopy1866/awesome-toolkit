@@ -2,7 +2,7 @@
 
 a list of awesome toolkit for self-use
 
-## 系统管理
+## 系统优化
 
 - [图吧工具箱](https://www.tbtool.cn/) DIY 爱好者的必备工具合集
 - [Windows 高级电源辅助管理工具](./toolkit-without-url/Windows高级电源辅助管理工具.zip) by bilibili[@有限的未知](https://space.bilibili.com/1199158766)
@@ -10,10 +10,6 @@ a list of awesome toolkit for self-use
 - [系统服务控制管理器批量辅助增强工具](./toolkit-without-url/系统服务控制管理器批量辅助增强工具.zip) by bilibili[@有限的未知](https://space.bilibili.com/1199158766)
 - [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) 纯粹的 Windows 右键菜单管理程序
 - [分区助手](https://www.disktool.cn/download.html)
-
-## 优化工具
-
-- [X-Mouse Button Control](https://www.highrez.co.uk/downloads/XMouseButtonControl.htm) 鼠标按键重映射
 
 ## 文件管理
 
@@ -31,6 +27,10 @@ a list of awesome toolkit for self-use
 - [Android SDK Platform-Tools](https://developer.android.com/tools/releases/platform-tools)
 - [文件真实格式识别分析工具](./toolkit-without-url/文件真实格式识别分析工具.zip) by bilibili[@有限的未知](https://space.bilibili.com/1199158766)
 - [OpenArk](https://github.com/BlackINT3/OpenArk) Ark 工具
+
+## 辅助工具
+
+- [X-Mouse Button Control](https://www.highrez.co.uk/downloads/XMouseButtonControl.htm) 鼠标按键重映射
 
 ## 破解相关
 
