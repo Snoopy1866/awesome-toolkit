@@ -40,11 +40,12 @@ a list of awesome toolkit for self-use
 
 ## 开发工具
 
-| 名称                                                                                      | 简介                      | 备注                                                            |
-| ----------------------------------------------------------------------------------------- | ------------------------- | --------------------------------------------------------------- |
-| [Android SDK Platform-Tools](https://developer.android.com/tools/releases/platform-tools) | 包含 ADB 和 Fastboot 工具 |                                                                 |
-| [文件真实格式识别分析工具](./toolkit-without-url/文件真实格式识别分析工具.zip)            |                           | by bilibili[@有限的未知](https://space.bilibili.com/1199158766) |
-| [OpenArk](https://github.com/BlackINT3/OpenArk)                                           | Ark 工具                  |                                                                 |
+| 名称                                                                                      | 简介                          | 备注                                                            |
+| ----------------------------------------------------------------------------------------- | ----------------------------- | --------------------------------------------------------------- |
+| [notepad--](https://github.com/cxasm/notepad--)                                           | 可替代 notepad++ 的文本编辑器 |                                                                 |
+| [Android SDK Platform-Tools](https://developer.android.com/tools/releases/platform-tools) | 包含 ADB 和 Fastboot 工具     |                                                                 |
+| [文件真实格式识别分析工具](./toolkit-without-url/文件真实格式识别分析工具.zip)            |                               | by bilibili[@有限的未知](https://space.bilibili.com/1199158766) |
+| [OpenArk](https://github.com/BlackINT3/OpenArk)                                           | Ark 工具                      |                                                                 |
 
 ## 辅助工具
 
