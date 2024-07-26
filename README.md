@@ -22,6 +22,7 @@ a list of awesome toolkit for self-use
 
 - [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) 使用机器学习进行图片、视频放大和插帧
 - [Sequator](https://sites.google.com/view/sequator) 星空拍摄后期堆栈
+- [semi-utils](https://github.com/leslievan/semi-utils) 批量添加水印
 
 ## 开发工具
 
