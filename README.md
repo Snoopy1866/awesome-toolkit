@@ -57,10 +57,11 @@ a list of awesome toolkit for self-use
 
 ## 辅助工具
 
-| 名称                                                                                  | 简介                               | 备注 |
-| ------------------------------------------------------------------------------------- | ---------------------------------- | ---- |
-| [X-Mouse Button Control](https://www.highrez.co.uk/downloads/XMouseButtonControl.htm) | 鼠标按键重映射                     |      |
-| [GKD](https://github.com/gkd-kit/gkd)                                                 | 基于无障碍服务的自定义屏幕点击 APP |      |
+| 名称                                                                                  | 简介                                 | 备注 |
+| ------------------------------------------------------------------------------------- | ------------------------------------ | ---- |
+| [X-Mouse Button Control](https://www.highrez.co.uk/downloads/XMouseButtonControl.htm) | 鼠标按键重映射                       |      |
+| [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)                    | 复制即翻译的外文辅助阅读翻译解决方案 |      |
+| [GKD](https://github.com/gkd-kit/gkd)                                                 | 基于无障碍服务的自定义屏幕点击 APP   |      |
 
 ## 破解相关
 
