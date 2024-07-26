@@ -12,3 +12,4 @@ a list of awesome toolkit for self-use
 - [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) 纯粹的 Windows 右键菜单管理程序
 - [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) 使用机器学习进行图片、视频放大和插帧
 - [LocalSend](https://github.com/localsend/localsend) 跨平台文件传输
+- [Sequator](https://sites.google.com/view/sequator) 星空拍摄后期堆栈
