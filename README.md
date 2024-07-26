@@ -4,6 +4,7 @@ a list of awesome toolkit for self-use
 
 ## 系统管理
 
+- [图吧工具箱](https://www.tbtool.cn/) DIY 爱好者的必备工具合集
 - [Windows 高级电源辅助管理工具](./toolkit-without-url/Windows高级电源辅助管理工具.zip) by bilibili[@有限的未知](https://space.bilibili.com/1199158766)
 - [Windows 使用痕迹检测工具](./toolkit-without-url/Windows使用痕迹检测工具.zip) by bilibili[@有限的未知](https://space.bilibili.com/1199158766)
 - [系统服务控制管理器批量辅助增强工具](./toolkit-without-url/系统服务控制管理器批量辅助增强工具.zip) by bilibili[@有限的未知](https://space.bilibili.com/1199158766)
