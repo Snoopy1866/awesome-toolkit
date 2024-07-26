@@ -14,3 +14,4 @@ a list of awesome toolkit for self-use
 - [LocalSend](https://github.com/localsend/localsend) 跨平台文件传输
 - [Sequator](https://sites.google.com/view/sequator) 星空拍摄后期堆栈
 - [MemoTrace](https://github.com/LC044/WeChatMsg) 微信聊天记录导出、分析
+- [OpenArk](https://github.com/BlackINT3/OpenArk) Ark 工具
