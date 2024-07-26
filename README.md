@@ -40,6 +40,12 @@ a list of awesome toolkit for self-use
 | [YesPlayMusic](https://github.com/qier222/YesPlayMusic)       | 第三方网易云播放器  |      |
 | [Watt Toolkit](https://github.com/BeyondDimension/SteamTools) | 多功能 Steam 工具箱 |      |
 
+## 文本编辑
+
+| 名称                         | 简介          | 备注 |
+| ---------------------------- | ------------- | ---- |
+| [Typora](https://typora.io/) | Markdown 写作 |      |
+
 ## 开发工具
 
 | 名称                                                                                      | 简介                          | 备注                                                            |
