@@ -32,6 +32,12 @@ a list of awesome toolkit for self-use
 | [Sequator](https://sites.google.com/view/sequator)                             | 星空拍摄后期堆栈                     |      |
 | [semi-utils](https://github.com/leslievan/semi-utils)                          | 批量添加水印                         |      |
 
+## 影音娱乐
+
+| 名称                                                    | 简介               | 备注 |
+| ------------------------------------------------------- | ------------------ | ---- |
+| [YesPlayMusic](https://github.com/qier222/YesPlayMusic) | 第三方网易云播放器 |      |
+
 ## 开发工具
 
 | 名称                                                                                      | 简介                      | 备注                                                            |
