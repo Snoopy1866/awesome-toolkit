@@ -25,6 +25,7 @@ a list of awesome toolkit for self-use
 | [TreeSize](https://treesize.net/)                   | 存储空间占用可视化       |      |
 | [LockHunter](https://lockhunter.com/)               | 解除文件占用             |      |
 | [RaiDrive](https://www.raidrive.com/)               | 云存储挂载到本地         |      |
+| [7-Zip](https://www.7-zip.org/)                     | 具有高压缩比的文件归档器 |      |
 
 ## 媒体处理
 
