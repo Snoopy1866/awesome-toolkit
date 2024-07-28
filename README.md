@@ -1,6 +1,6 @@
 # awesome-toolkit
 
-a list of awesome toolkit for self-use
+A list of awesome toolkits for self-use.
 
 ## 系统优化
 
