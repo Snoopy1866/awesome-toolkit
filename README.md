@@ -75,6 +75,7 @@ A list of awesome toolkits for self-use.
 | --------------------------------------------------------------------------------- | ---------------------------- | --------------------------------------------------------------- |
 | [RunAsDate](https://www.nirsoft.net/utils/run_as_date.html)                       | 使软件运行在指定日期和时间上 |                                                                 |
 | [PDF 密码批量清除与加密工具](./toolkit-without-url/PDF密码批量清除与加密工具.zip) |                              | by bilibili[@有限的未知](https://space.bilibili.com/1199158766) |
+| [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator)                   | 微软激活原理研究工具         |                                                                 |
 
 ## 未分类
 
