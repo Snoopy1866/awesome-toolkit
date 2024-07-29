@@ -82,3 +82,4 @@ A list of awesome toolkits for self-use.
 | ----------------------------------------------------------------- | ---------------------- | ---- |
 | [MemoTrace](https://github.com/LC044/WeChatMsg)                   | 微信聊天记录导出、分析 |      |
 | [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro) | 2FA 身份验证器         |      |
+| [meme-generator](https://github.com/MeetWq/meme-generator)        | 沙雕表情包生成器       |      |
