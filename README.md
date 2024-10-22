@@ -15,6 +15,7 @@ A list of awesome toolkits for self-use.
 | [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager)                         | 纯粹的 Windows 右键菜单管理程序 |                                                                 |
 | [分区助手](https://www.disktool.cn/download.html)                                                  |                                 |                                                                 |
 | [DNS 优选](./toolkit-without-url/DNS优选.zip)                                                      |                                 |                                                                 |
+| [修复 USB3 设备识别失败问题](https://miuiver.com/usb3-fix/)                                        |                                 | 错误代码：43                                                    |
 
 ## 文件管理
 
