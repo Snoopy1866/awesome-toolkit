@@ -68,6 +68,7 @@ A list of awesome toolkits for self-use.
 | ------------------------------------------------------------------------------------- | ------------------------------------ | ---- |
 | [X-Mouse Button Control](https://www.highrez.co.uk/downloads/XMouseButtonControl.htm) | 鼠标按键重映射                       |      |
 | [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)                    | 复制即翻译的外文辅助阅读翻译解决方案 |      |
+| [pot-desktop](https://github.com/pot-app/pot-desktop)                                 | 🌈 一个跨平台的划词翻译和 OCR 软件   |      |
 | [GKD](https://github.com/gkd-kit/gkd)                                                 | 基于无障碍服务的自定义屏幕点击 APP   |      |
 
 ## 破解相关
