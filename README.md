@@ -19,14 +19,15 @@ A list of awesome toolkits for self-use.
 
 ## 文件管理
 
-| 名称                                                | 简介                     | 备注 |
-| --------------------------------------------------- | ------------------------ | ---- |
-| [LocalSend](https://github.com/localsend/localsend) | 跨平台文件传输           |      |
-| [QTTabBar](http://qttabbar.wikidot.com/)            | 在资源管理器中使用多标签 |      |
-| [TreeSize](https://treesize.net/)                   | 存储空间占用可视化       |      |
-| [LockHunter](https://lockhunter.com/)               | 解除文件占用             |      |
-| [RaiDrive](https://www.raidrive.com/)               | 云存储挂载到本地         |      |
-| [7-Zip](https://www.7-zip.org/)                     | 具有高压缩比的文件归档器 |      |
+| 名称                                                                   | 简介                     | 备注 |
+| ---------------------------------------------------------------------- | ------------------------ | ---- |
+| [LocalSend](https://github.com/localsend/localsend)                    | 跨平台文件传输           |      |
+| [QTTabBar](http://qttabbar.wikidot.com/)                               | 在资源管理器中使用多标签 |      |
+| [TreeSize](https://treesize.net/)                                      | 存储空间占用可视化       |      |
+| [LockHunter](https://lockhunter.com/)                                  | 解除文件占用             |      |
+| [RaiDrive](https://www.raidrive.com/)                                  | 云存储挂载到本地         |      |
+| [7-Zip](https://www.7-zip.org/)                                        | 具有高压缩比的文件归档器 |      |
+| [AB Download Manager](https://github.com/amir1376/ab-download-manager) | IDM 的开源替代品         |      |
 
 ## 媒体处理
 
