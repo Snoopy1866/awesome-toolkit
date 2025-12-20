@@ -76,11 +76,12 @@ A list of awesome toolkits for self-use.
 
 ## 破解相关
 
-| 名称                                                                              | 简介                         | 备注                                                            |
-| --------------------------------------------------------------------------------- | ---------------------------- | --------------------------------------------------------------- |
-| [RunAsDate](https://www.nirsoft.net/utils/run_as_date.html)                       | 使软件运行在指定日期和时间上 |                                                                 |
-| [PDF 密码批量清除与加密工具](./toolkit-without-url/PDF密码批量清除与加密工具.zip) |                              | by bilibili[@有限的未知](https://space.bilibili.com/1199158766) |
-| [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator)                   | 微软激活原理研究工具         |                                                                 |
+| 名称                                                                              | 简介                                        | 备注                                                            |
+| --------------------------------------------------------------------------------- | ------------------------------------------- | --------------------------------------------------------------- |
+| [RunAsDate](https://www.nirsoft.net/utils/run_as_date.html)                       | 使软件运行在指定日期和时间上                |                                                                 |
+| [PDF 密码批量清除与加密工具](./toolkit-without-url/PDF密码批量清除与加密工具.zip) |                                             | by bilibili[@有限的未知](https://space.bilibili.com/1199158766) |
+| [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator)                   | 微软激活原理研究工具                        |                                                                 |
+| [Mocreak](https://github.com/OdysseusYuan/LKY_OfficeTools/tree/master)            | 一键自动化 下载、安装、激活 Office 的利器。 |                                                                 |
 
 ## 未分类
 
