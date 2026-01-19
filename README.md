@@ -28,6 +28,7 @@ A list of awesome toolkits for self-use.
 | [RaiDrive](https://www.raidrive.com/)                                  | 云存储挂载到本地         |      |
 | [7-Zip](https://www.7-zip.org/)                                        | 具有高压缩比的文件归档器 |      |
 | [AB Download Manager](https://github.com/amir1376/ab-download-manager) | IDM 的开源替代品         |      |
+| [Ant Renamer](https://antp.be/software/renamer)                        | 文件重命名工具           |      |
 
 ## 媒体处理
 
