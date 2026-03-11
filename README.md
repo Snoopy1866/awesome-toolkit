@@ -4,18 +4,18 @@ A list of awesome toolkits for self-use.
 
 ## 系统优化
 
-| 名称                                                                                               | 简介                            | 备注                                                            |
-| -------------------------------------------------------------------------------------------------- | ------------------------------- | --------------------------------------------------------------- |
-| [图吧工具箱](https://www.tbtool.cn/)                                                               | DIY 爱好者的必备工具合集        |                                                                 |
-| [LDTools](https://tool.pc.wiki/)                                                                   | 老弟一号工具箱                  |                                                                 |
-| [Ventoy](https://github.com/ventoy/Ventoy)                                                         | 新一代多系统启动 U 盘解决方案   |                                                                 |
-| [Windows 高级电源辅助管理工具](./toolkit-without-url/Windows高级电源辅助管理工具.zip)              |                                 | by bilibili[@有限的未知](https://space.bilibili.com/1199158766) |
-| [Windows 使用痕迹检测工具](./toolkit-without-url/Windows使用痕迹检测工具.zip)                      |                                 | by bilibili[@有限的未知](https://space.bilibili.com/1199158766) |
-| [系统服务控制管理器批量辅助增强工具](./toolkit-without-url/系统服务控制管理器批量辅助增强工具.zip) |                                 | by bilibili[@有限的未知](https://space.bilibili.com/1199158766) |
-| [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager)                         | 纯粹的 Windows 右键菜单管理程序 |                                                                 |
-| [分区助手](https://www.disktool.cn/download.html)                                                  |                                 |                                                                 |
-| [DNS 优选](./toolkit-without-url/DNS优选.zip)                                                      |                                 |                                                                 |
-| [修复 USB3 设备识别失败问题](https://miuiver.com/usb3-fix/)                                        |                                 | 错误代码：43                                                    |
+| 名称                                                                                               | 简介                                                 | 备注                                                            |
+| -------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | --------------------------------------------------------------- |
+| [图吧工具箱](https://www.tbtool.cn/)                                                               | DIY 爱好者的必备工具合集                             |                                                                 |
+| [LDTools](https://tool.pc.wiki/)                                                                   | 老弟一号工具箱                                       |                                                                 |
+| [Ventoy](https://github.com/ventoy/Ventoy)                                                         | 新一代多系统启动 U 盘解决方案                        |                                                                 |
+| [Windows 高级电源辅助管理工具](./toolkit-without-url/Windows高级电源辅助管理工具.zip)              |                                                      | by bilibili[@有限的未知](https://space.bilibili.com/1199158766) |
+| [Windows 使用痕迹检测工具](./toolkit-without-url/Windows使用痕迹检测工具.zip)                      |                                                      | by bilibili[@有限的未知](https://space.bilibili.com/1199158766) |
+| [系统服务控制管理器批量辅助增强工具](./toolkit-without-url/系统服务控制管理器批量辅助增强工具.zip) |                                                      | by bilibili[@有限的未知](https://space.bilibili.com/1199158766) |
+| [ContextMenuManager](https://github.com/Jack251970/ContextMenuManager)                             | 一个纯粹的Windows右键菜单管理器，支持 Windows 7 ~ 11 |                                                                 |
+| [分区助手](https://www.disktool.cn/download.html)                                                  |                                                      |                                                                 |
+| [DNS 优选](./toolkit-without-url/DNS优选.zip)                                                      |                                                      |                                                                 |
+| [修复 USB3 设备识别失败问题](https://miuiver.com/usb3-fix/)                                        |                                                      | 错误代码：43                                                    |
 
 ## 文件管理
 
