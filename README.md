@@ -31,6 +31,7 @@ A list of awesome toolkits for self-use.
 | [Ant Renamer](https://antp.be/software/renamer)                         | 文件重命名工具                    |      |
 | [OpenHashTab](https://github.com/namazso/OpenHashTab)                   | 计算和检查文件哈希值的 Shell 扩展 |      |
 | [BulkFileChanger](https://www.nirsoft.net/utils/bulk_file_changer.html) | 文件属性修改工具                  |      |
+| [WinMerge](https://github.com/WinMerge/winmerge) | 文件差异比较、合并工具                  |      |
 
 ## 媒体处理
 
